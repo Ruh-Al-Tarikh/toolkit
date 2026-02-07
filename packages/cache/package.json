@@ -37,7 +37,7 @@
     "url": "https://github.com/actions/toolkit/issues"
   },
   "dependencies": {
-    "@actions/core": "^2.0.0",
+    "@actions/core": "^3.0.0",
     "@actions/exec": "^3.0.0",
     "@actions/glob": "^0.6.1",
     "@protobuf-ts/runtime-rpc": "^2.11.1",
